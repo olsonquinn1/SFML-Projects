@@ -1,0 +1,13 @@
+﻿  Application.cpp
+C:\Users\olson\source\repos\Langton Ant\Fractals\Application.cpp(27,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\olson\source\repos\Langton Ant\Fractals\Application.cpp(175,93): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olson\source\repos\Langton Ant\Fractals\Application.cpp(175,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Fractals.vcxproj -> C:\Users\olson\source\repos\Langton Ant\x64\Debug\Langton Ant.exe

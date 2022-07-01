@@ -1,0 +1,71 @@
+﻿  Snake.cpp
+C:\Users\olson\source\repos\Snake\Snake\Snake.cpp(77,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\olson\source\repos\Snake\Snake\Snake.cpp(82,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\olson\source\repos\Snake\Snake\Snake.cpp(83,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\olson\source\repos\Snake\Snake\Snake.cpp(98,50): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\olson\source\repos\Snake\Snake\Snake.cpp(98,43): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\olson\source\repos\Snake\Snake\Snake.cpp(117,47): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olson\source\repos\Snake\Snake\Snake.cpp(117,87): warning C4244: 'argument': conversion from 'T' to 'unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olson\source\repos\Snake\Snake\Snake.cpp(155,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\olson\source\repos\Snake\Snake\Snake.cpp(81,28): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\olson\source\repos\Snake\Snake\Snake.cpp(156,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olson\source\repos\Snake\Snake\Snake.cpp(157,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olson\source\repos\Snake\Snake\Snake.cpp(161,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\olson\source\repos\Snake\Snake\Snake.cpp(162,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olson\source\repos\Snake\Snake\Snake.cpp(163,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olson\source\repos\Snake\Snake\Snake.cpp(206,58): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olson\source\repos\Snake\Snake\Snake.cpp(206,97): warning C4244: 'argument': conversion from 'T' to 'unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olson\source\repos\Snake\Snake\Snake.cpp(209,45): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olson\source\repos\Snake\Snake\Snake.cpp(209,71): warning C4244: 'argument': conversion from 'T' to 'unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olson\source\repos\Snake\Snake\Snake.cpp(216,83): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olson\source\repos\Snake\Snake\Snake.cpp(216,123): warning C4244: 'argument': conversion from 'T' to 'unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olson\source\repos\Snake\Snake\Snake.cpp(225,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Snake.vcxproj -> C:\Users\olson\source\repos\Snake\x64\Debug\Snake.exe

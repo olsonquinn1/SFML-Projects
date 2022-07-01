@@ -1,0 +1,52 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (testing.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BouncyBalls.cpp
+C:\Users\olson\source\repos\Bouny Balls\testing\BouncyBalls.cpp(39,1): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\olson\source\repos\Bouny Balls\testing\BouncyBalls.cpp(45,1): warning C4305: '*=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\olson\source\repos\Bouny Balls\testing\BouncyBalls.cpp(46,1): warning C4305: '*=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\olson\source\repos\Bouny Balls\testing\BouncyBalls.cpp(51,1): warning C4305: '*=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\olson\source\repos\Bouny Balls\testing\BouncyBalls.cpp(55,1): warning C4305: '*=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\olson\source\repos\Bouny Balls\testing\BouncyBalls.cpp(87,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\olson\source\repos\Bouny Balls\testing\BouncyBalls.cpp(94,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\olson\source\repos\Bouny Balls\testing\BouncyBalls.cpp(105,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\olson\source\repos\Bouny Balls\testing\BouncyBalls.cpp(143,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\olson\source\repos\Bouny Balls\testing\BouncyBalls.cpp(154,71): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olson\source\repos\Bouny Balls\testing\BouncyBalls.cpp(154,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olson\source\repos\Bouny Balls\testing\BouncyBalls.cpp(154,120): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\olson\source\repos\Bouny Balls\testing\BouncyBalls.cpp(154,103): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  testing.vcxproj -> C:\Users\olson\source\repos\Bouny Balls\x64\Debug\Bouncy Balls.exe
