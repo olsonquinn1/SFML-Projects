@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\Development\SFML Repo\SFML-Projects\Automata2\Automata2\Source.cpp(22,21): warning C4018: '<': signed/unsigned mismatch
+D:\Development\SFML Repo\SFML-Projects\Automata2\Automata2\Source.cpp(56,66): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\Automata2\Automata2\Source.cpp(56,48): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\Automata2\Automata2\Source.cpp(68,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Automata2.vcxproj -> D:\Development\SFML Repo\SFML-Projects\Automata2\x64\Debug\Automata2.exe

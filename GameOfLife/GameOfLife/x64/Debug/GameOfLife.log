@@ -1,36 +1,36 @@
 ﻿  GameOfLife.cpp
-C:\Users\olson\source\repos\GameOfLife\GameOfLife\GameOfLife.cpp(18,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\olson\source\repos\GameOfLife\GameOfLife\GameOfLife.cpp(41,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\olson\source\repos\GameOfLife\GameOfLife\GameOfLife.cpp(78,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\olson\source\repos\GameOfLife\GameOfLife\GameOfLife.cpp(85,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\olson\source\repos\GameOfLife\GameOfLife\GameOfLife.cpp(186,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\GameOfLife\GameOfLife\GameOfLife.cpp(19,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\GameOfLife\GameOfLife\GameOfLife.cpp(42,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\GameOfLife\GameOfLife\GameOfLife.cpp(83,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\GameOfLife\GameOfLife\GameOfLife.cpp(90,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\GameOfLife\GameOfLife\GameOfLife.cpp(192,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\olson\source\repos\GameOfLife\GameOfLife\GameOfLife.cpp(186,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\GameOfLife\GameOfLife\GameOfLife.cpp(192,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\olson\source\repos\GameOfLife\GameOfLife\GameOfLife.cpp(196,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\GameOfLife\GameOfLife\GameOfLife.cpp(202,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\olson\source\repos\GameOfLife\GameOfLife\GameOfLife.cpp(197,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\GameOfLife\GameOfLife\GameOfLife.cpp(203,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\olson\source\repos\GameOfLife\GameOfLife\GameOfLife.cpp(202,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\GameOfLife\GameOfLife\GameOfLife.cpp(208,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\olson\source\repos\GameOfLife\GameOfLife\GameOfLife.cpp(203,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\GameOfLife\GameOfLife\GameOfLife.cpp(209,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-  GameOfLife.vcxproj -> C:\Users\olson\source\repos\GameOfLife\x64\Debug\GameOfLife.exe
+  GameOfLife.vcxproj -> D:\Development\SFML Repo\SFML-Projects\GameOfLife\x64\Debug\GameOfLife.exe

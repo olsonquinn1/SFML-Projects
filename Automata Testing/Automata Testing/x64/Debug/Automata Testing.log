@@ -1,62 +1,66 @@
 ﻿  Application.cpp
-C:\Users\olson\source\repos\Automata Testing\Automata Testing\Application.cpp(40,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\olson\source\repos\Automata Testing\Automata Testing\Application.cpp(63,59): warning C4244: 'argument': conversion from 'long double' to 'float', possible loss of data
-C:\Users\olson\source\repos\Automata Testing\Automata Testing\Application.cpp(65,59): warning C4244: 'argument': conversion from 'long double' to 'float', possible loss of data
-C:\Users\olson\source\repos\Automata Testing\Automata Testing\Application.cpp(105,30): warning C4244: '+=': conversion from 'float' to 'long', possible loss of data
-C:\Users\olson\source\repos\Automata Testing\Automata Testing\Application.cpp(106,30): warning C4244: '+=': conversion from 'double' to 'long', possible loss of data
-C:\Users\olson\source\repos\Automata Testing\Automata Testing\Application.cpp(127,28): warning C4244: 'initializing': conversion from 'long double' to 'float', possible loss of data
-C:\Users\olson\source\repos\Automata Testing\Automata Testing\Application.cpp(141,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\Automata Testing\Automata Testing\Application.cpp(40,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\Automata Testing\Automata Testing\Application.cpp(63,59): warning C4244: 'argument': conversion from 'long double' to 'float', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\Automata Testing\Automata Testing\Application.cpp(65,59): warning C4244: 'argument': conversion from 'long double' to 'float', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\Automata Testing\Automata Testing\Application.cpp(105,30): warning C4244: '+=': conversion from 'float' to 'long', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\Automata Testing\Automata Testing\Application.cpp(106,30): warning C4244: '+=': conversion from 'double' to 'long', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\Automata Testing\Automata Testing\Application.cpp(127,28): warning C4244: 'initializing': conversion from 'long double' to 'float', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\Automata Testing\Automata Testing\Application.cpp(146,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\olson\source\repos\Automata Testing\Automata Testing\Application.cpp(150,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\Automata Testing\Automata Testing\Application.cpp(155,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\olson\source\repos\Automata Testing\Automata Testing\Application.cpp(319,27): warning C4018: '<': signed/unsigned mismatch
-C:\Users\olson\source\repos\Automata Testing\Automata Testing\Application.cpp(340,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\olson\source\repos\Automata Testing\Automata Testing\Application.cpp(342,69): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
-C:\Users\olson\source\repos\Automata Testing\Automata Testing\Application.cpp(342,51): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
-C:\Users\olson\source\repos\Automata Testing\Automata Testing\Application.cpp(390,70): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\Automata Testing\Automata Testing\Application.cpp(328,27): warning C4018: '<': signed/unsigned mismatch
+D:\Development\SFML Repo\SFML-Projects\Automata Testing\Automata Testing\Application.cpp(349,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\Automata Testing\Automata Testing\Application.cpp(351,69): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\Automata Testing\Automata Testing\Application.cpp(351,51): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\Automata Testing\Automata Testing\Application.cpp(399,70): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\olson\source\repos\Automata Testing\Automata Testing\Application.cpp(390,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\Automata Testing\Automata Testing\Application.cpp(399,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\olson\source\repos\Automata Testing\Automata Testing\Application.cpp(488,64): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\Automata Testing\Automata Testing\Application.cpp(497,64): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
           with
           [
               T=float
           ]
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xutility(228): message : see reference to function template instantiation 'auto main::<lambda_7c93887575ef3a38a8be645aaca420f6>::operator ()<Agent&>(Agent &) const' being compiled
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\execution(1159): message : see reference to function template instantiation 'decltype(auto) std::_Ref_fn<_Fn>::operator ()<Agent&>(Agent &)' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\xutility(236): message : see reference to function template instantiation 'auto main::<lambda_1>::operator ()<Agent&>(_T1) const' being compiled
           with
           [
-              _Fn=main::<lambda_7c93887575ef3a38a8be645aaca420f6>
+              _T1=Agent &
           ]
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\execution(1214): message : see reference to function template instantiation 'void std::_For_each_ivdep<Agent*,std::_Ref_fn<_Fn>>(_FwdIt,const _FwdIt,std::_Ref_fn<_Fn>)' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\execution(1155): message : see reference to function template instantiation 'decltype(auto) std::_Ref_fn<_Fn>::operator ()<Agent&>(Agent &)' being compiled
           with
           [
-              _Fn=main::<lambda_7c93887575ef3a38a8be645aaca420f6>,
+              _Fn=main::<lambda_1>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\execution(1190): message : see reference to function template instantiation 'void std::_For_each_ivdep<Agent*,std::_Ref_fn<_Fn>>(_FwdIt,const _FwdIt,std::_Ref_fn<_Fn>)' being compiled
+          with
+          [
+              _Fn=main::<lambda_1>,
               _FwdIt=Agent *
           ]
-C:\Users\olson\source\repos\Automata Testing\Automata Testing\Application.cpp(493): message : see reference to function template instantiation 'void std::for_each<const std::execution::parallel_unsequenced_policy&,std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,main::<lambda_7c93887575ef3a38a8be645aaca420f6>,0>(_ExPo,_FwdIt,_FwdIt,_Fn) noexcept' being compiled
+D:\Development\SFML Repo\SFML-Projects\Automata Testing\Automata Testing\Application.cpp(502): message : see reference to function template instantiation 'void std::for_each<const std::execution::parallel_unsequenced_policy&,std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,main::<lambda_1>,0>(_ExPo,_FwdIt,_FwdIt,_Fn) noexcept' being compiled
           with
           [
               _Ty=Agent,
               _ExPo=const std::execution::parallel_unsequenced_policy &,
               _FwdIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<Agent>>>,
-              _Fn=main::<lambda_7c93887575ef3a38a8be645aaca420f6>
+              _Fn=main::<lambda_1>
           ]
-C:\Users\olson\source\repos\Automata Testing\Automata Testing\Application.cpp(488,46): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+D:\Development\SFML Repo\SFML-Projects\Automata Testing\Automata Testing\Application.cpp(497,46): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
           with
           [
               T=float
           ]
-  Automata Testing.vcxproj -> C:\Users\olson\source\repos\Automata Testing\x64\Debug\Automata Testing.exe
+  Automata Testing.vcxproj -> D:\Development\SFML Repo\SFML-Projects\Automata Testing\x64\Debug\Automata Testing.exe

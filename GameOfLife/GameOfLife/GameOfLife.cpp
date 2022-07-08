@@ -57,6 +57,10 @@ int main()
     column.clear();
     std::vector<std::vector<int>> newState = prevState;
 
+    std::vector<int> yvals;
+    for (int i = 0; i < c_height; i++)
+        yvals.push_back(i);
+
     while (window.isOpen()) {
 
         while (window.pollEvent(event)) {

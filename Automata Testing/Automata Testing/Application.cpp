@@ -132,6 +132,11 @@ public:
     void updatePosition() {
         position.x = position.x + velocity.x * speed;
         position.y = position.y + velocity.y * speed;
+
+        if (rand() % 1000 < 30) {
+            position.x += rand() % 200 - 100;
+            position.y += rand() % 200 - 100;
+        }
         
         if (position.x < 0) {
             position.x = 0;
@@ -150,6 +155,8 @@ public:
             position.y = yBound - 1;
             velocity.y *= -1;
         }
+
+        
     }
 
     void drawRaysToImage(sf::Image& image) {
@@ -317,7 +324,7 @@ void dimImage(sf::Image& image, std::vector<int> xvals, int dimAmount) {
 
     std::for_each(std::execution::par_unseq, xvals.begin(), xvals.end(), [&](int x) {
         for (int y = 0; y < size.y; y++) {
-            sf::Color  currentPixel = image.getPixel(x, y);
+            sf::Color currentPixel = image.getPixel(x, y);
             currentPixel.r = std::max(0, currentPixel.r - dimAmount);
             currentPixel.g = std::max(0, currentPixel.g - dimAmount);
             currentPixel.b = std::max(0, currentPixel.b - dimAmount);
@@ -331,9 +338,9 @@ int main()
     const int c_width = 600;
     const int c_height = 480;
     const float desiredFPS = 100.0;
-    const float scale = 2.5;
+    const float scale = 2;
 
-    const int agentCount = 1000;
+    const int agentCount = 500;
 
     int trailDimAmount = 5;
 
@@ -371,7 +378,7 @@ int main()
         std::cout << "font error" << std::endl;
     }
 
-    int fps = 0;
+    int fps = 10;
 
     sf::Text fpsCounter(std::to_string(fps), font, 30);
     fpsCounter.setFillColor(sf::Color::Red);
